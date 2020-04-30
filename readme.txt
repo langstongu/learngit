@@ -1,3 +1,3 @@
-git is a verision control systm
+Git is a distribute verision control systm
 git is a software
 
